@@ -1,2 +1,2 @@
 # testrepo
-INtroducción a GitHub - Course IBM
+Introducción a GitHub - Course IBM
